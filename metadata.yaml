@@ -1,0 +1,27 @@
+_repo: The-University-of-Michigan_21532
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shaw, Wilfred Byron
+    birthdate: 1881
+    deathdate: 1959
+    gutenberg_agent_id: '24768'
+    url: http://www.gutenberg.org/2009/agents/24768
+description: ''
+gutenberg_issued: '2007-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21532'
+  lccn: '21000158'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'University of Michigan -- History'
+- !lcc 'LD'
+title: The University of Michigan
+url: http://www.gutenberg.org/ebooks/21532
